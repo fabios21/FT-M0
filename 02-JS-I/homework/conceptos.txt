@@ -1,0 +1,14 @@
+Variable
+Es una formar de guardar un valor para ser usado más tarde.
+
+Strings
+Son cadenas o bloques de texto que se definen entre comillas.
+
+Funciones
+Son un tipo de objeto, denominados, objetos invocables.
+
+Declaraciones
+Es una presentación en las que solicitamos algo.
+
+Booleanos
+Basados en la logica de Boole, nos da solo dos opciones. True - False.
