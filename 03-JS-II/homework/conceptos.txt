@@ -1,0 +1,15 @@
+for
+Es un bucle que nos permite evaluar expresiones constantemente
+hasta encontrar la de nuestro interes.
+
+&&
+Es un operador lógico que evalua dos expesiones y nos arrojará
+"true" solo si ambas son verdaderas.
+
+||
+Es un operador lógico que evalua dos expresiones y  nos arrojará
+"true" mientras que al menos 1 de la expresiones sea verdadera.
+
+!
+Es un operador lógico y  nos arrojará el valor contrario al resultado
+en terminos booleanos.
