@@ -1,0 +1,16 @@
+Objetos
+Coleción de datos conformados por propiedades y sus valores.
+
+Propiedades
+Es la categoria de una elemento que queremos evaluar.
+
+Métodos
+Son funciones guardadas en los objetos.
+
+Bucle for…in
+Es un bucle que recorre cada clave del objeto y finaliza cuando se hayan recorrido todas las claves.
+
+Notación de puntos vs notación de corchetes
+La notación puntos nos permite llamar a las claves de un objeto.
+La notación de corchetes también nos permite llamar claves de objetos pero las toma como si fueran elementos de una matriz.
+
