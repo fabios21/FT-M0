@@ -1,0 +1,6 @@
+Prototype
+Es una propiedad de clases que nos peromite establecer y almacer métodos en el.
+
+
+Constructors (de Clases)
+Es un método que nos permite crear e iniciar un objeto creado a partir de una clase.
